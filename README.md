@@ -1,2 +1,2 @@
-# Hello_word
+# Hello_GitHub
 just for fun
